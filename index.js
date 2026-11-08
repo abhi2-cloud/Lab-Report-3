@@ -351,5 +351,7 @@ if (require.main === module) {
     });
 }
 
-module.exports = { app, dbReady }; // exported for testing
+module.exports = app;
+module.exports.app = app;
+module.exports.dbReady = dbReady;
 
