@@ -531,9 +531,9 @@ Always use `await` before every database helper call inside an `async` function.
 
 ### Deployed URL
 
-> ⚠️ **Update this section after deployment.**
->
-> Live URL: `https://<your-render-url>.onrender.com`
+- **Production Live URL (Render):** [https://bdf-lab-03-2gxx.onrender.com](https://bdf-lab-03-2gxx.onrender.com)
+- **Books Endpoint:** [https://bdf-lab-03-2gxx.onrender.com/books](https://bdf-lab-03-2gxx.onrender.com/books)
+- **GitHub Repository:** [https://github.com/abhi2-cloud/Lab-Report-3](https://github.com/abhi2-cloud/Lab-Report-3)
 
 ### ⚠️ SQLite Ephemeral Storage Warning
 
